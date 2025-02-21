@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\Desktop\practica6\ejercicio2.3_ordenador20262996\ejercicio2.3_ordenador20262996\bin\Debug\ejercicio2.3_ordenador20262996.exe.config
+C:\Users\MINEDUCYT\Desktop\practica6\ejercicio2.3_ordenador20262996\ejercicio2.3_ordenador20262996\bin\Debug\ejercicio2.3_ordenador20262996.exe
+C:\Users\MINEDUCYT\Desktop\practica6\ejercicio2.3_ordenador20262996\ejercicio2.3_ordenador20262996\bin\Debug\ejercicio2.3_ordenador20262996.pdb
+C:\Users\MINEDUCYT\Desktop\practica6\ejercicio2.3_ordenador20262996\ejercicio2.3_ordenador20262996\obj\Debug\ejercicio2.3_ordenador20262996.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\practica6\ejercicio2.3_ordenador20262996\ejercicio2.3_ordenador20262996\obj\Debug\ejercicio2.3_ordenador20262996.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\practica6\ejercicio2.3_ordenador20262996\ejercicio2.3_ordenador20262996\obj\Debug\ejercicio2.3_ordenador20262996.exe
+C:\Users\MINEDUCYT\Desktop\practica6\ejercicio2.3_ordenador20262996\ejercicio2.3_ordenador20262996\obj\Debug\ejercicio2.3_ordenador20262996.pdb
